@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bankapp-dev-224025-authRole",
+      "UnauthRoleArn": "arn:aws:iam::016517156967:role/amplify-bankapp-dev-224025-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::016517156967:role/amplify-bankapp-dev-224025-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-bankapp-dev-224025-deployment",
+      "UnauthRoleName": "amplify-bankapp-dev-224025-unauthRole",
+      "StackName": "amplify-bankapp-dev-224025",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:016517156967:stack/amplify-bankapp-dev-224025/22f00f70-cb8c-11eb-81f9-023477035e84",
+      "AmplifyAppId": "d1abpwh2viz2d6"
+    },
+    "categories": {
+      "auth": {
+        "bankapp7461baf9": {}
+      }
+    }
+  }
+}
